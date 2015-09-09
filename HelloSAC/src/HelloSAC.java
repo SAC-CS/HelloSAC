@@ -6,3 +6,5 @@ public class HelloSAC {
 	}
 	
 }
+
+// Good job...please consider sharing with the class how you intergrated GitHub with Eclipse.
